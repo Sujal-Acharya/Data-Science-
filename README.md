@@ -84,11 +84,7 @@ This project demonstrates the power of data science in trade analytics by:
 - Jupyter Notebook
 - Statistical Libraries (SciPy)
 
-## 📌 Author
 
-**Sujal S Acharya**  
-3rd Year B.Tech CSE | Department of Data Science  
-Symbiosis Institute of Technology, Nagpur
 
 ---
 
